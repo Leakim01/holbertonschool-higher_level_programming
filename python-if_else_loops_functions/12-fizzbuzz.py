@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def fizzbuzz():
 
     for i in range(1, 100):
@@ -9,3 +10,4 @@ def fizzbuzz():
             print("Buzz", end=" ")
         else:
             print(i, end=" ")
+    print ("Buzz $")
