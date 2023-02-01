@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Bin Bash for .py Files"""
+
 class Square:
     """
     Attributes:
