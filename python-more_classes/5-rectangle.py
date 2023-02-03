@@ -70,3 +70,4 @@ class Rectangle:
         print("Bye rectangle...")
         del(self.__width, self.__height)
         return
+
