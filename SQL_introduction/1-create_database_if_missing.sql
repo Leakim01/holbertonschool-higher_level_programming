@@ -1,3 +1,3 @@
 -- Create a Database if it doesn't exist
-SHOW DATABASES;
-CREATE DATABASE IF NOT EXIST `hbtn_0c_0`;
+-- If it Already exists, Script will should not fail !
+CREATE DATABASE IF NOT EXIST hbtn_0c_0;
